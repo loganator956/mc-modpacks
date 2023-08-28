@@ -222,6 +222,24 @@
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/journeymap/version/1.20.1-5.9.12-fabric",
                 "VersionID": "NXNhbImz"
+            },
+            {
+                "Label": "Zoomify",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/zoomify/version/2.11.0",
+                "VersionID": "tv8GIQDa"
+            },
+            {
+                "Label": "Fabric Language Kotlin",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/fabric-language-kotlin/version/1.10.10+kotlin.1.9.10",
+                "VersionID": "48ri5y9r"
+            },
+            {
+                "Label": "Mouse Tweaks",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/mouse-tweaks/version/1.20-2.25-fabric",
+                "VersionID": "m0Dd8Cjy"
             }
         ],
         "ModBlacklist": [

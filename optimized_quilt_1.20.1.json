@@ -95,12 +95,6 @@
                 "VersionID": "FCnCG6PS"
             },
             {
-                "Label": "Memory Leak Fix",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/memoryleakfix/version/kLyFtyv2",
-                "VersionID": "kLyFtyv2"
-            },
-            {
                 "Label": "ModernFix",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/modernfix/version/XDyibw2U",

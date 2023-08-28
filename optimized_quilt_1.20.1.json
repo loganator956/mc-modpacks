@@ -134,6 +134,12 @@
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
                 "VersionID": "G16NNnV9"
+            },
+            {
+                "Label": "Arc",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/arc-shader/version/0.15.2",
+                "VersionID": "etcq6IIX"
             }
         ]
     }

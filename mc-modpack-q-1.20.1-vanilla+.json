@@ -244,104 +244,20 @@
             {
                 "Label": "Searchables",
                 "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/searchables/version/kt5hkP9b"
+                "URL": "https://modrinth.com/mod/searchables/version/kt5hkP9b",
                 "VersionID": "kt5hkP9b"
             },
             {
                 "Label": "Controlling",
                 "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/controlling/version/6ipZLQSK"
+                "URL": "https://modrinth.com/mod/controlling/version/6ipZLQSK",
                 "VersionID": "6ipZLQSK"
             },
             {
                 "Label": "Visual Overhaul",
                 "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/visual-overhaul/version/5.0.1-quilt"
+                "URL": "https://modrinth.com/mod/visual-overhaul/version/5.0.1-quilt",
                 "VersionID": "lqH98CUx"
-            },
-            {
-                "Label": "Chat Reporting Helper",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/resourcepack/chat-reporting-helper/version/2.9"
-                "VersionID": "i6BLAbO7"
-            },
-            {
-                "Label": "CIT Resewn",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/cit-resewn/version/1.1.3+1.20"
-                "VersionID": "c7Lo4vij"
-            },
-            {
-                "Label": "Modern Fix",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/modernfix/version/5.7.1+mc1.20.1"
-                "VersionID": "Ypf2M9ta"
-            },
-            {
-                "Label": "Better Mount HUD",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/better-mount-hud/version/1.2.2"
-                "VersionID": "h1QpxElt"
-            },
-            {
-                "Label": "Puzzle",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/puzzle/version/1.5.2+1.20"
-                "VersionID": "F5UKlslF"
-            },
-            {
-                "Label": "More Culling",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/moreculling/version/v0.19.0-1.20.x"
-                "VersionID": "Bu5pCvCn"
-            },
-            {
-                "Label": "ImmediatelyFast",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/immediatelyfast/version/1.2.1+1.20.1"
-                "VersionID": "txcO4lNF"
-            },
-            {
-                "Label": "Capes",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/capes/version/1.5.2+1.20"
-                "VersionID": "z2zOEvPP"
-            },
-            {
-                "Label": "Entity Culling",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/entityculling/version/d20sUcYn"
-                "VersionID": "d20sUcYn"
-            },
-            {
-                "Label": "Enhanced Block Entities",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/ebe/version/0.9+1.20"
-                "VersionID": "i3v1Skck"
-            },
-            {
-                "Label": "MoreChatHistory",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/morechathistory/version/mc1.19.1-1.1.1"
-                "VersionID": "b1apT2G2"
-            },
-            {
-                "Label": "Debugify",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/debugify/version/1.20.1+2.0"
-                "VersionID": "6XDJoCks"
-            },
-            {
-                "Label": "Model Gap Fix",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/modelfix/version/1.14"
-                "VersionID": "r6uVoUxU"
-            },
-            {
-                "Label": "Memory Leak Fix",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/memoryleakfix/version/kLyFtyv2"
-                "VersionID": "kLyFtyv2"
             }
         ],
         "ModBlacklist": [

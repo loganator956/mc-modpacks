@@ -252,6 +252,12 @@
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/controlling/version/6ipZLQSK"
                 "VersionID": "6ipZLQSK"
+            },
+            {
+                "Label": "Visual Overhaul",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/visual-overhaul/version/5.0.1-quilt"
+                "VersionID": "lqH98CUx"
             }
         ],
         "ModBlacklist": [

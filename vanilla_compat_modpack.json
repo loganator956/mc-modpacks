@@ -1,0 +1,205 @@
+[
+    {
+        "Name": "vanilla compat modpack",
+        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
+        "ModLoaderInstallArgs": "install client 1.20.2 0.20.1",
+        "ProfileUUID": "vanilla_compat_modpack",
+        "AllowedModLoaders": [
+            "fabric",
+            "quilt"
+        ],
+        "AllowedGameVersions": [
+            "1.20.1",
+            "1.20.2"
+        ],
+        "MinecraftProfile": [
+            {
+                "name": "cool modpack",
+                "type": "custom",
+                "created": "1970-01-01T00:00:00.000Z",
+                "lastUsed": "1970-01-01T00:00:00.000Z",
+                "icon": "Leaves_Birch",
+                "lastVersionId": "quilt-loader-0.20.1-1.20.2",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\vanilla compat modpack"
+            }
+        ],
+        "Mods": [
+            {
+                "Label": "Jade",
+                "Source": "modrinth",
+                "ProjectID": "nvQzSEkH",
+                "URL": "https://modrinth.com/mod/jade"
+            },
+            {
+                "Label": "Mouse Tweaks",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/mouse-tweaks",
+                "ProjectID": "aC3cM3Vq"
+            },
+            {
+                "ProjectID": "3qsfQtE9",
+                "Source": "modrinth"
+            },
+            {
+                "ProjectID": "lfHFW1mp",
+                "Source": "modrinth"
+            },
+            {
+                "ProjectID": "fFEIiSDQ",
+                "Source": "modrinth"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "Wb5oqrBJ"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "M08ruV16"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "Fb4jn8m6"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "MS1ZMyR7"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "NK39zBp2"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "DOUdJVEm"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "HjmxVlSr"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "o1C1Dkj5"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "3dT9sgt4"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "Z2mXHnxP"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "kidLKymU"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "nPZr02ET"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "fRiHVvU7"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "fgmhI8kH"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "yoJJjRRE"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "XNlO7sBv"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "z9Ve58Ih"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "ZYgyPyfq"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "bpii4Xsa"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "Z5b0cAlD"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "2Uev7LdA"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "dlNu0RQY"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "AVq17PqV"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "ObXSoyrn"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "Cnejf5xM"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "1KiJRrTg"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "WhbRG4iK"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "rI0hvYcd"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "YL57xq9U"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "mOgUt4GM"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "NNAgCjsB"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "AANobbMI"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "Bh37bMuy"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "yBW8D80W"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "1IjD5062"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "qQyHxfxd"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "8shC1gFX"
+            },
+            {
+                "Source": "modrinth",
+                "ProjectID": "kYq5qkSL"
+            }
+        ]
+    }
+]

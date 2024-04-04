@@ -2,7 +2,7 @@
     {
         "Name": "vanilla compat modpack",
         "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
-        "ModLoaderInstallArgs": "install client 1.20.2 0.20.1",
+        "ModLoaderInstallArgs": "install client 1.20.2 0.23.1",
         "ProfileUUID": "vanilla_compat_modpack",
         "AllowedModLoaders": [
             "fabric",
@@ -19,7 +19,7 @@
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
-                "lastVersionId": "quilt-loader-0.20.1-1.20.2",
+                "lastVersionId": "quilt-loader-0.23.1-1.20.2",
                 "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\vanilla compat modpack"
             }
         ],

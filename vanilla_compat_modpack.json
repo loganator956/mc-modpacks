@@ -9,7 +9,6 @@
             "quilt"
         ],
         "AllowedGameVersions": [
-            "1.20.1",
             "1.20.2"
         ],
         "MinecraftProfile": [
@@ -135,10 +134,6 @@
             {
                 "Source": "modrinth",
                 "ProjectID": "dlNu0RQY"
-            },
-            {
-                "Source": "modrinth",
-                "ProjectID": "AVq17PqV"
             },
             {
                 "Source": "modrinth",

@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "technologyy",
+        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
+        "ModLoaderInstallArgs": "install client 1.20.1 0.23.1",
+        "ProfileUUID": "technologyy",
+        "AllowedModLoaders": [
+            "forge"
+        ],
+        "AllowedGameVersions": [
+            "1.20.1"
+        ],
+        "MinecraftProfile": [
+            {
+                "name": "technologyy",
+                "type": "custom",
+                "created": "1970-01-01T00:00:00.000Z",
+                "lastUsed": "1970-01-01T00:00:00.000Z",
+                "icon": "Leaves_Birch",
+                "lastVersionId": "quilt-loader-0.23.1-1.20.1",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\technologyy"
+            }
+        ],
+        "Mods": [
+            {
+                "Label": "Create",
+                "Source": "modrinth",
+                "ProjectID": "LNytGWDc",
+                "URL": "https://modrinth.com/mod/create"
+            }
+        ],
+        "ModBlacklist": [
+            "P7dR8mSH"
+        ],
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders v4",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
+                "VersionID": "G16NNnV9"
+            }
+        ]
+    }
+]

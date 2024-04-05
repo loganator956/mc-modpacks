@@ -1,6 +1,7 @@
 [
     {
         "Name": "quilt vanilla+",
+        "Description": "A nice extension on minecraft without being too much new stuff?",
         "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
         "ModLoaderInstallArgs": "install client 1.20.1 0.23.1",
         "ProfileUUID": "quilt_vanilla+",
@@ -23,6 +24,156 @@
             }
         ],
         "Mods": [
+            {
+                "Label": "Traverse",
+                "ProjectID": "kXygSBVI",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/traverse"
+            },
+            {
+                "Label": "Create Crafts & Additions",
+                "ProjectID": "kU1G12Nn",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/createaddition"
+            },
+            {
+                "Label": "More Chests Variants (MCV)",
+                "ProjectID": "HKKqmr2p",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/more-chest-variants-lieonlion"
+            },
+            {
+                "Label": "Furnish",
+                "ProjectID": "5cWCtJmf",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/furnish-furniture"
+            },
+            {
+                "Label": "Clutter",
+                "ProjectID": "KZAmykow",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/clutter"
+            },
+            {
+                "Label": "FurniCraft",
+                "ProjectID": "7OgRKPcG",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/datapack/ketkets-furnicraft"
+            },
+            {
+                "Label": "Friends and Foes",
+                "ProjectID": "POQ2i9zu",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/friends-and-foes"
+            },
+            {
+                "Label": "Nyf's Spiders",
+                "ProjectID": "dOGM7ccu",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/nyfs-spiders"
+            },
+            {
+                "Label": "Spawn Animations",
+                "ProjectID": "zrzYrlm0",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/datapack/spawn-animations"
+            },
+            {
+                "Label": "Villager Names",
+                "ProjectID": "gqRXDo8B",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/villager-names-serilum"
+            },
+            {
+                "Label": "Random Village Names",
+                "ProjectID": "N0ytbukx",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/random-village-names"
+            },
+            {
+                "Label": "Healing Campfire",
+                "ProjectID": "kOuPUitF",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/healing-campfire"
+            },
+            {
+                "Label": "Realistic Bees",
+                "ProjectID": "tG6HkcWx",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/realistic-bees"
+            },
+            {
+                "Label": "Companion 🐕",
+                "ProjectID": "4w0EzGRW",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/companion"
+            },
+            {
+                "Label": "More Crafting Tables (MCT)",
+                "ProjectID": "C5hwIsg1",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/more-crafting-tables-lieonlion"
+            },
+            {
+                "Label": "Bridging Mod",
+                "ProjectID": "lO3s8hjs",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/bridging-mod"
+            },
+            {
+                "Label": "Additional Structures",
+                "ProjectID": "TWsbC6jW",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/additional-structures"
+            },
+            {
+                "Label": "Adorn",
+                "ProjectID": "E6FUtRJh",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/adorn"
+            },
+            {
+                "Label": "Chest Tracker",
+                "ProjectID": "ni4SrKmq",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/chest-tracker"
+            },
+            {
+                "Label": "Universal Graves",
+                "ProjectID": "yn9u3ypm",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/universal-graves"
+            },
+            {
+                "Label": "Create Fabric",
+                "ProjectID": "ZzjhlDgM",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/create-steam-n-rails"
+            },
+            {
+                "Label": "Create: Bells & Whistles",
+                "ProjectID": "gJ5afkVv",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/bellsandwhistles"
+            },
+            {
+                "Label": "Create: Diesel Generators [Fabric]",
+                "ProjectID": "reiRz8zO",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/create-diesel-generators-fabric"
+            },
+            {
+                "Label": "Simple Copper Pipes",
+                "ProjectID": "9r4ZkgSN",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/simple-copper-pipes"
+            },
+            {
+                "Label": "Create: Steam 'n' Rails",
+                "ProjectID": "Xbc0uyRg",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/create-fabric"
+            },
             {
                 "Label": "Jade",
                 "Source": "modrinth",

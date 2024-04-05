@@ -1,9 +1,9 @@
 [
     {
-        "Name": "vanilla compat modpack",
+        "Name": "quilt vanilla+",
         "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
         "ModLoaderInstallArgs": "install client 1.20.1 0.23.1",
-        "ProfileUUID": "vanilla_compat_modpack",
+        "ProfileUUID": "quilt_vanilla+",
         "AllowedModLoaders": [
             "fabric",
             "quilt"
@@ -13,13 +13,13 @@
         ],
         "MinecraftProfile": [
             {
-                "name": "vanilla_compat_modpack",
+                "name": "quilt_vanilla+",
                 "type": "custom",
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
                 "lastVersionId": "quilt-loader-0.23.1-1.20.1",
-                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\vanilla compat modpack"
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\quilt_vanilla+"
             }
         ],
         "Mods": [
@@ -68,6 +68,8 @@
                 "ProjectID": "NK39zBp2"
             },
             {
+                "Label": "YUNG's Better Mineshafts",
+                "URL": "https://modrinth.com/mod/yungs-better-mineshafts",
                 "Source": "modrinth",
                 "ProjectID": "DOUdJVEm"
             },

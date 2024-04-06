@@ -1,0 +1,153 @@
+[
+    {
+        "Name": "stinky",
+        "ModLoader": "https://maven.neoforged.net/releases/net/neoforged/forge/1.20.1-47.1.104/forge-1.20.1-47.1.104-installer.jar",
+        "ModLoaderInstallArgs": "--install-client",
+        "ProfileUUID": "stinky",
+        "AllowedModLoaders": [
+            "forge",
+            "neoforge"
+        ],
+        "AllowedGameVersions": [
+            "1.20.1"
+        ],
+        "MinecraftProfile": [
+            {
+                "name": "stinky",
+                "type": "custom",
+                "created": "1970-01-01T00:00:00.000Z",
+                "lastUsed": "1970-01-01T00:00:00.000Z",
+                "icon": "Furnace",
+                "lastVersionId": "1.20.1-forge-47.1.104",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\stinky"
+            }
+        ],
+        "Mods": [
+            {
+                "Label": "Oculus",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/oculus",
+                "ProjectID": "GchcoXML"
+            },
+            {
+                "Label": "No Chat Reports",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/no-chat-reports",
+                "ProjectID": "qQyHxfxd"
+            },
+            {
+                "Label": "Borderless Mining",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/borderless-mining",
+                "ProjectID": "kYq5qkSL"
+            },
+            {
+                "Label": "JourneyMap",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/journeymap",
+                "ProjectID": "lfHFW1mp"
+            },
+            {
+                "Label": "Immersive Engineering",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/immersiveengineering",
+                "ProjectID": "tIm2nV03"
+            },
+            {
+                "Label": "Just Enough Items",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/jei",
+                "ProjectID": "u6dRKJwZ"
+            },
+            {
+                "Label": "Jade 🔍",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/jade",
+                "ProjectID": "nvQzSEkH"
+            },
+            {
+                "Label": "Supplementaries",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/supplementaries",
+                "ProjectID": "fFEIiSDQ"
+            },
+            {
+                "Label": "Simple Discord RPC",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/simple-discord-rpc",
+                "ProjectID": "ObXSoyrn"
+            },
+            {
+                "Label": "Create",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/create",
+                "ProjectID": "LNytGWDc"
+            },
+            {
+                "Label": "Create: Steam 'n' Rails",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/create-steam-n-rails",
+                "ProjectID": "ZzjhlDgM"
+            },
+            {
+                "Label": "Create Crafts & Additions",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/createaddition",
+                "ProjectID": "kU1G12Nn"
+            },
+            {
+                "Label": "Another Furniture",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/another-furniture",
+                "ProjectID": "ulloLmqG"
+            },
+            {
+                "Label": "Adorn",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/adorn",
+                "ProjectID": "E6FUtRJh"
+            },
+            {
+                "Label": "More Mob Variants",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/more-mob-variants",
+                "ProjectID": "JiEhJ3WG"
+            },
+            {
+                "Label": "Explorify",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/datapack/explorify",
+                "ProjectID": "HSfsxuTo"
+            },
+            {
+                "Label": "Stoneworks",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/stoneworks",
+                "ProjectID": "FzyTKtVF"
+            },
+            {
+                "Label": "Screenshot to Clipboard",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/screenshot-to-clipboard",
+                "ProjectID": "1KiJRrTg"
+            },
+            {
+                "Label": "Dynamic Lights",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/datapack/dynamic-lights",
+                "ProjectID": "7YjclEGc"
+            }
+        ],
+        "ModBlacklist": [
+            "P7dR8mSH"
+        ],
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders v4",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
+                "VersionID": "G16NNnV9"
+            }
+        ]
+    }
+]

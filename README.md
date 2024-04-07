@@ -1,0 +1,1 @@
+$MC_JSON_PATH = "https://raw.githubusercontent.com/loganator956/mc-modpacks/master/immersive%20engineer.json"; iwr https://raw.githubusercontent.com/loganator956/mc-autosetup/master/mc-modpack-setup.ps1 | iex

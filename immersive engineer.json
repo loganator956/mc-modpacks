@@ -18,6 +18,7 @@
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Furnace",
+                "javaArgs" : "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
                 "lastVersionId": "1.20.1-forge-47.1.104",
                 "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\immersive engineer"
             }

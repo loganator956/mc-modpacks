@@ -154,6 +154,12 @@
                 "ProjectID": "NNAgCjsB",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/entityculling"
+            },
+            {
+                "Label": "Amendments",
+                "ProjectID": "6iTJugQR",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/amendments"
             }
         ],
         "ModBlacklist": [

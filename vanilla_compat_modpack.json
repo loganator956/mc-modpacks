@@ -216,6 +216,7 @@
             {
                 "Source": "modrinth",
                 "ProjectID": "AANobbMI",
+                "VersionID": "mhZtY2lR",
                 "Label": "Sodium",
                 "IsServer": false,
                 "URL": "https://modrinth.com/mod/sodium"

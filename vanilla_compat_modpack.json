@@ -268,6 +268,13 @@
                 "URL": "https://modrinth.com/mod/indium",
                 "Source": "modrinth",
                 "ProjectID": "Orvt0mRa"
+            },
+            {
+                "Label": "Spyglass Improvements",
+                "IsServer": false,
+                "ProjectID": "Z6ykjRlM",
+                "URL": "https://modrinth.com/mod/spyglass-improvements",
+                "Source": "modrinth"
             }
         ],
         "ModBlacklist": [

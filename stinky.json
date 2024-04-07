@@ -136,6 +136,24 @@
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/datapack/dynamic-lights",
                 "ProjectID": "7YjclEGc"
+            },
+            {
+                "Label": "NetherPortalFix",
+                "ProjectID": "nPZr02ET",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/netherportalfix"
+            },
+            {
+                "Label": "Fusion Connected Textures",
+                "ProjectID": "p19vrgc2",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/fusion-connected-textures"
+            },
+            {
+                "Label": "Entity Culling",
+                "ProjectID": "NNAgCjsB",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/entityculling"
             }
         ],
         "ModBlacklist": [

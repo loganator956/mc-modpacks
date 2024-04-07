@@ -275,6 +275,45 @@
                 "ProjectID": "Z6ykjRlM",
                 "URL": "https://modrinth.com/mod/spyglass-improvements",
                 "Source": "modrinth"
+            },
+            {
+                "Label": "Chest Tracker",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/chest-tracker",
+                "Source": "modrinth",
+                "ProjectID": "ni4SrKmq"
+            },
+            {
+                "Label": "EMI Enchanting",
+                "IsServer": false,
+                "Note": "",
+                "ProjectID": "wbWoo11W",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/emi-enchanting"
+            },
+            {
+                "Label": "Now Playing",
+                "IsServer": false,
+                "Note": "",
+                "ProjectID": "eNF4Bfla",
+                "Source":"modrinth",
+                "URL": "https://modrinth.com/mod/now-playing"
+            },
+            {
+                "IsServer":false,
+                "Label": "Advancement Screenshot",
+                "Note": "",
+                "ProjectID": "lU8KbfG2",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/advancement-screenshot"
+            },
+            {
+                "IsServer":false,
+                "Label": "Just Enough Breeding",
+                "Note": "",
+                "ProjectID": "9Pk89J3g",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/justenoughbreeding"
             }
         ],
         "ModBlacklist": [

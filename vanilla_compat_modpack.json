@@ -27,173 +27,247 @@
                 "Label": "Jade",
                 "Source": "modrinth",
                 "ProjectID": "nvQzSEkH",
-                "URL": "https://modrinth.com/mod/jade"
+                "URL": "https://modrinth.com/mod/jade",
+                "IsServer": true
             },
             {
                 "Label": "Mouse Tweaks",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/mouse-tweaks",
-                "ProjectID": "aC3cM3Vq"
+                "ProjectID": "aC3cM3Vq",
+                "IsServer": false
             },
             {
+                "Label": "Fabrishot",
                 "ProjectID": "3qsfQtE9",
-                "Source": "modrinth"
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/fabrishot",
+                "IsServer": false
             },
             {
+                "Label": "JourneyMap",
+                "IsServer": true,
                 "ProjectID": "lfHFW1mp",
-                "Source": "modrinth"
-            },
-            {
-                "ProjectID": "fFEIiSDQ",
-                "Source": "modrinth"
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/journeymap"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "Wb5oqrBJ"
+                "ProjectID": "Wb5oqrBJ",
+                "Label": "Chat Heads",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/chat-heads"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "M08ruV16"
+                "ProjectID": "M08ruV16",
+                "IsServer": false,
+                "Label": "Bobby",
+                "Note": "See further than server view-distance",
+                "URL": "https://modrinth.com/mod/bobby"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "Fb4jn8m6"
+                "ProjectID": "Fb4jn8m6",
+                "IsServer": true,
+                "Label": "FallingTree",
+                "URL": "https://modrinth.com/mod/fallingtree"
+            },
+            {
+                "Label": "Better Ping Display [Fabric]",
+                "Source": "modrinth",
+                "ProjectID": "MS1ZMyR7",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/better-ping-display-fabric"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "MS1ZMyR7"
+                "ProjectID": "NK39zBp2",
+                "IsServer": false,
+                "Label": "Blur (Fabric)",
+                "URL": "https://modrinth.com/mod/blur-fabric"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "NK39zBp2"
-            },
-            {
-                "Source": "modrinth",
-                "ProjectID": "DOUdJVEm"
-            },
-            {
-                "Source": "modrinth",
+                "Label": "YUNG's Better Mineshafts",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-better-mineshafts",
                 "ProjectID": "HjmxVlSr"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "o1C1Dkj5"
+                "ProjectID": "o1C1Dkj5",
+                "Label": "YUNG's Better Dungeons",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-better-dungeons"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "3dT9sgt4"
+                "ProjectID": "3dT9sgt4",
+                "Label": "YUNG's Better Ocean Monuments",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-better-ocean-monuments"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "Z2mXHnxP"
+                "ProjectID": "Z2mXHnxP",
+                "IsServer": true,
+                "Label": "YUNG's Better Nether Fortresses",
+                "URL": "https://modrinth.com/mod/yungs-better-nether-fortresses"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "kidLKymU"
+                "ProjectID": "kidLKymU",
+                "Label": "YUNG's Better Strongholds",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-better-strongholds"
             },
             {
+                "Label": "NetherPortalFix",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/netherportalfix",
                 "Source": "modrinth",
                 "ProjectID": "nPZr02ET"
             },
             {
+                "Label": "EMI",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/emi",
                 "Source": "modrinth",
                 "ProjectID": "fRiHVvU7"
             },
             {
-                "Source": "modrinth",
-                "ProjectID": "fgmhI8kH"
-            },
-            {
-                "Source": "modrinth",
-                "ProjectID": "yoJJjRRE"
-            },
-            {
+                "Label": "YUNG's Better Desert Temples",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-better-desert-temples",
                 "Source": "modrinth",
                 "ProjectID": "XNlO7sBv"
             },
             {
+                "Label": "YUNG's Better Jungle Temples",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-better-jungle-temples",
                 "Source": "modrinth",
                 "ProjectID": "z9Ve58Ih"
             },
             {
+                "Label": "YUNG's Extras",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/yungs-extras",
                 "Source": "modrinth",
                 "ProjectID": "ZYgyPyfq"
             },
             {
-                "Source": "modrinth",
-                "ProjectID": "bpii4Xsa"
-            },
-            {
-                "Source": "modrinth",
-                "ProjectID": "Z5b0cAlD"
-            },
-            {
+                "Label": "Lambda Better Grass",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/lambdabettergrass",
                 "Source": "modrinth",
                 "ProjectID": "2Uev7LdA"
             },
             {
-                "Source": "modrinth",
-                "ProjectID": "dlNu0RQY"
-            },
-            {
+                "Label": "Simple Discord RPC",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/simple-discord-rpc",
                 "Source": "modrinth",
                 "ProjectID": "ObXSoyrn"
             },
             {
+                "Label": "RightClickHarvest",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/rightclickharvest",
                 "Source": "modrinth",
                 "ProjectID": "Cnejf5xM"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "1KiJRrTg"
+                "ProjectID": "1KiJRrTg",
+                "IsServer": false,
+                "Label": "Screenshot to Clipboard",
+                "URL": "https://modrinth.com/mod/screenshot-to-clipboard"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "WhbRG4iK"
+                "ProjectID": "rI0hvYcd",
+                "IsServer": false,
+                "Label": "Visuality",
+                "URL": "https://modrinth.com/mod/visuality"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "rI0hvYcd"
+                "ProjectID": "YL57xq9U",
+                "IsServer": false,
+                "Label": "Iris",
+                "URL": "https://modrinth.com/mod/iris"
             },
             {
-                "Source": "modrinth",
-                "ProjectID": "YL57xq9U"
-            },
-            {
+                "Label": "Mod Menu",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/modmenu",
                 "Source": "modrinth",
                 "ProjectID": "mOgUt4GM"
             },
             {
+                "Label": "Entity Culling",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/entityculling",
                 "Source": "modrinth",
                 "ProjectID": "NNAgCjsB"
             },
             {
                 "Source": "modrinth",
-                "ProjectID": "AANobbMI"
+                "ProjectID": "AANobbMI",
+                "Label": "Sodium",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/sodium"
             },
             {
+                "Label": "Reese's Sodium Options",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/reeses-sodium-options",
                 "Source": "modrinth",
                 "ProjectID": "Bh37bMuy"
             },
             {
+                "Label": "LambDynamicLights",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/lambdynamiclights",
                 "Source": "modrinth",
                 "ProjectID": "yBW8D80W"
             },
             {
+                "Label": "Continuity",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/continuity",
                 "Source": "modrinth",
                 "ProjectID": "1IjD5062"
             },
             {
+                "Label": "No CHat Reports",
+                "IsServer": true,
+                "URL": "https://modrinth.com/mod/no-chat-reports",
                 "Source": "modrinth",
                 "ProjectID": "qQyHxfxd"
             },
             {
+                "Label": "BetterF3",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/betterf3",
                 "Source": "modrinth",
                 "ProjectID": "8shC1gFX"
             },
             {
+                "Label":"Borderless Mining",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/borderless-mining",
                 "Source": "modrinth",
                 "ProjectID": "kYq5qkSL"
+            },
+            {
+                "Label": "Indium",
+                "IsServer": false,
+                "URL": "https://modrinth.com/mod/indium",
+                "Source": "modrinth",
+                "ProjectID": "Orvt0mRa"
             }
         ],
         "ModBlacklist": [

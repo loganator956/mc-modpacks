@@ -1,0 +1,79 @@
+[
+    {
+        "Name": "Pretty Latest",
+        "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+        "ModLoaderInstallArgs": "client -mcversion 1.20.4 -loader 0.15.11 -noprofile",
+        "ProfileUUID": "testingfabric1.20.4",
+        "MinecraftProfile": [
+            {
+                "name": "testing_fabric_1.20.4",
+                "type": "custom",
+                "created": "1970-01-01T00:00:00.000Z",
+                "lastUsed": "1970-01-01T00:00:00.000Z",
+                "icon": "Leaves_Birch",
+                "lastVersionId": "fabric-loader-0.15.11-1.20.4",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\testing_fabric_1.20.4"
+            }
+        ],
+        "AllowedModLoaders": [
+            "fabric"
+        ],
+        "AllowedGameVersions": [
+            "1.20.4"
+        ],
+        "Mods": [
+            {
+                "Label": "Fabric API",
+                "Source": "modrinth",
+                "ProjectID": "P7dR8mSH",
+                "URL": "https://modrinth.com/mod/fabric-api",
+                "IsServer": true
+            },
+            {
+                "Label": "Sodium",
+                "Source": "modrinth",
+                "ProjectID": "AANobbMI",
+                "URL": "https://modrinth.com/mod/sodium",
+                "IsServer": false
+            },
+            {
+                "Label": "Iris Shaders",
+                "Source": "modrinth",
+                "ProjectID": "YL57xq9U",
+                "URL": "https://modrinth.com/mod/iris",
+                "IsServer": false
+            },
+            {
+                "Label": "Simple Discord RPC",
+                "Source": "modrinth",
+                "ProjectID": "ObXSoyrn",
+                "URL": "https://modrinth.com/mod/simple-discord-rpc",
+                "IsServer": false
+            },
+            {
+                "Label": "Terralith",
+                "Source": "modrinth",
+                "ProjectID": "8oi3bsk5",
+                "URL": "https://modrinth.com/mod/terralith",
+                "IsServer": false
+            }
+        ],
+        "ModBlacklist": [
+            "nothingshfaihf"
+        ],
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders v4",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
+                "VersionID": "G16NNnV9"
+            },
+            {
+                "Label": "Arc",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/arc-shader/version/0.15.2",
+                "VersionID": "etcq6IIX"
+            }
+        ]
+    }
+]

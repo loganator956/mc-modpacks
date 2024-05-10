@@ -2,7 +2,7 @@
     {
         "Name": "Pretty Latest",
         "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
-        "ModLoaderInstallArgs": "install client 1.20.4 0.15.11",
+        "ModLoaderInstallArgs": "client -mcversion 1.20.4 -loader 0.15.11 -noprofile",
         "ProfileUUID": "templatemodpack",
         "MinecraftProfile": [
             {

@@ -48,14 +48,21 @@
                 "Source": "modrinth",
                 "ProjectID": "ObXSoyrn",
                 "URL": "https://modrinth.com/mod/simple-discord-rpc",
-                "IsServer": false
+                "IsServer": true
             },
             {
                 "Label": "Terralith",
                 "Source": "modrinth",
                 "ProjectID": "8oi3bsk5",
                 "URL": "https://modrinth.com/mod/terralith",
-                "IsServer": false
+                "IsServer": true
+            },
+            {
+                "Label": "No Chat Reports",
+                "Source": "modrinth",
+                "ProjectID": "qQyHxfxd",
+                "URL": "https://modrinth.com/mod/no-chat-reports",
+                "IsServer": true
             }
         ],
         "ModBlacklist": [

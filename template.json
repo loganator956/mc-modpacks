@@ -29,6 +29,20 @@
                 "ProjectID": "qvIfYCYJ",
                 "URL": "https://modrinth.com/mod/qsl",
                 "IsServer": true
+            },
+            {
+                "Label": "Sodium",
+                "Source": "modrinth",
+                "ProjectID": "AANobbMI",
+                "URL": "https://modrinth.com/mod/sodium",
+                "IsServer": false
+            },
+            {
+                "Label": "Iris Shaders",
+                "Source": "modrinth",
+                "ProjectID": "YL57xq9U",
+                "URL": "https://modrinth.com/mod/iris",
+                "IsServer": false
             }
         ],
         "ModBlacklist": [

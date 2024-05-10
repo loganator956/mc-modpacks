@@ -1,8 +1,8 @@
 [
     {
         "Name": "Pretty Latest",
-        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.9.1/quilt-installer-0.9.1.jar",
-        "ModLoaderInstallArgs": "install client 1.20.6 0.25.0",
+        "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
+        "ModLoaderInstallArgs": "install client 1.20.6 0.15.11",
         "ProfileUUID": "templatemodpack",
         "MinecraftProfile": [
             {
@@ -11,23 +11,22 @@
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
-                "lastVersionId": "quilt-loader-0.25.0-1.20.6",
+                "lastVersionId": "fabric-loader-0.15.11-1.20.6",
                 "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\templatemodpack"
             }
         ],
         "AllowedModLoaders": [
-            "fabric",
-            "quilt"
+            "fabric"
         ],
         "AllowedGameVersions": [
             "1.20.6"
         ],
         "Mods": [
             {
-                "Label": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+                "Label": "Fabric API",
                 "Source": "modrinth",
-                "ProjectID": "qvIfYCYJ",
-                "URL": "https://modrinth.com/mod/qsl",
+                "ProjectID": "P7dR8mSH",
+                "URL": "https://modrinth.com/mod/fabric-api",
                 "IsServer": true
             },
             {
@@ -43,10 +42,18 @@
                 "ProjectID": "YL57xq9U",
                 "URL": "https://modrinth.com/mod/iris",
                 "IsServer": false
+            },
+            {
+                "Label": "Simple Discord RPC",
+                "Source": "modrinth",
+                "ProjectID": "ObXSoyrn",
+                "VersionID": "YyFppPGz",
+                "URL": "https://modrinth.com/mod/simple-discord-rpc/version/1.20.4-3.2.6",
+                "IsServer": false
             }
         ],
         "ModBlacklist": [
-            "P7dR8mSH"
+            "nothingshfaihf"
         ],
         "Shaders": [
             {

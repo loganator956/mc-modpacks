@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Pretty Latest",
+        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.9.1/quilt-installer-0.9.1.jar",
+        "ModLoaderInstallArgs": "install client 1.20.6 0.25.0",
+        "ProfileUUID": "templatemodpack",
+        "MinecraftProfile": [
+            {
+                "name": "Template MC Modpack",
+                "type": "custom",
+                "created": "1970-01-01T00:00:00.000Z",
+                "lastUsed": "1970-01-01T00:00:00.000Z",
+                "icon": "Leaves_Birch",
+                "lastVersionId": "quilt-loader-0.25.0-1.20.6",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\prettylatest"
+            }
+        ],
+        "AllowedModLoaders": [
+            "fabric",
+            "quilt"
+        ],
+        "AllowedGameVersions": [
+            "1.20.6"
+        ],
+        "Mods": [
+            {
+                "Label": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+                "Source": "modrinth",
+                "ProjectID": "qvIfYCYJ",
+                "URL": "https://modrinth.com/mod/qsl",
+                "IsServer": true
+            }
+        ],
+        "ModBlacklist": [
+            "P7dR8mSH"
+        ],
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders v4",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
+                "VersionID": "G16NNnV9"
+            },
+            {
+                "Label": "Arc",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/arc-shader/version/0.15.2",
+                "VersionID": "etcq6IIX"
+            }
+        ]
+    }
+]

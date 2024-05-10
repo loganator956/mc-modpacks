@@ -2,7 +2,7 @@
     {
         "Name": "Pretty Latest",
         "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
-        "ModLoaderInstallArgs": "install client 1.20.6 0.15.11",
+        "ModLoaderInstallArgs": "install client 1.20.4 0.15.11",
         "ProfileUUID": "templatemodpack",
         "MinecraftProfile": [
             {
@@ -11,7 +11,7 @@
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
-                "lastVersionId": "fabric-loader-0.15.11-1.20.6",
+                "lastVersionId": "fabric-loader-0.15.11-1.20.4",
                 "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\templatemodpack"
             }
         ],
@@ -19,7 +19,7 @@
             "fabric"
         ],
         "AllowedGameVersions": [
-            "1.20.6"
+            "1.20.4"
         ],
         "Mods": [
             {
@@ -47,8 +47,7 @@
                 "Label": "Simple Discord RPC",
                 "Source": "modrinth",
                 "ProjectID": "ObXSoyrn",
-                "VersionID": "YyFppPGz",
-                "URL": "https://modrinth.com/mod/simple-discord-rpc/version/1.20.4-3.2.6",
+                "URL": "https://modrinth.com/mod/simple-discord-rpc",
                 "IsServer": false
             }
         ],

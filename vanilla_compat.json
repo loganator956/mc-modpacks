@@ -44,10 +44,10 @@
                 "IsServer": false
             },
             {
-                "Label": "Simple Discord RPC",
+                "Label": "CraftPresence",
                 "Source": "modrinth",
-                "ProjectID": "ObXSoyrn",
-                "URL": "https://modrinth.com/mod/simple-discord-rpc",
+                "ProjectID": "DFqQfIBR",
+                "URL": "https://modrinth.com/mod/craftpresence",
                 "IsServer": false
             },
             {

@@ -1,25 +1,25 @@
 [
     {
-        "Name": "Pretty Latest",
+        "Name": "vanillacompat",
         "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
-        "ModLoaderInstallArgs": "client -mcversion 1.20.4 -loader 0.15.11 -noprofile",
-        "ProfileUUID": "testingfabric1.20.4",
+        "ModLoaderInstallArgs": "client -mcversion 1.20.6 -loader 0.15.11 -noprofile",
+        "ProfileUUID": "vanillacompat",
         "MinecraftProfile": [
             {
-                "name": "testing_fabric_1.20.4",
+                "name": "Vanilla Compatible",
                 "type": "custom",
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
-                "lastVersionId": "fabric-loader-0.15.11-1.20.4",
-                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\testing_fabric_1.20.4"
+                "lastVersionId": "fabric-loader-0.15.11-1.20.6",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\vanilla-compatible"
             }
         ],
         "AllowedModLoaders": [
             "fabric"
         ],
         "AllowedGameVersions": [
-            "1.20.4"
+            "1.20.6"
         ],
         "Mods": [
             {
@@ -48,29 +48,23 @@
                 "Source": "modrinth",
                 "ProjectID": "ObXSoyrn",
                 "URL": "https://modrinth.com/mod/simple-discord-rpc",
-                "IsServer": true
-            },
-            {
-                "Label": "Terralith",
-                "Source": "modrinth",
-                "ProjectID": "8oi3bsk5",
-                "URL": "https://modrinth.com/mod/terralith",
-                "IsServer": true
+                "IsServer": false
             },
             {
                 "Label": "No Chat Reports",
-                "Source": "modrinth",
+                "IsServer": true,
                 "ProjectID": "qQyHxfxd",
-                "URL": "https://modrinth.com/mod/no-chat-reports",
-                "IsServer": true
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/no-chat-reports"
             },
             {
-                "Label": "",
+                "Label": "Mod Menu",
+                "IsServer": false,
+                "ProjectID": "mOgUt4GM",
                 "Source": "modrinth",
-                "ProjectID": "",
-                "URL": "https://modrinth.com/mod/",
-                "IsServer": false
+                "URL": "https://modrinth.com/mod/modmenu"
             }
+            
         ],
         "ModBlacklist": [
             "nothingshfaihf"

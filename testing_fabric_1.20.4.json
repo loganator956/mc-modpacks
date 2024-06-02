@@ -1,18 +1,18 @@
 [
     {
-        "Name": "template",
+        "Name": "Pretty Latest",
         "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
         "ModLoaderInstallArgs": "client -mcversion 1.20.4 -loader 0.15.11 -noprofile",
-        "ProfileUUID": "templatemodpack",
+        "ProfileUUID": "testingfabric1.20.4",
         "MinecraftProfile": [
             {
-                "name": "Template MC Modpack",
+                "name": "testing_fabric_1.20.4",
                 "type": "custom",
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
                 "lastVersionId": "fabric-loader-0.15.11-1.20.4",
-                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\templatemodpack"
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\testing_fabric_1.20.4"
             }
         ],
         "AllowedModLoaders": [
@@ -48,6 +48,27 @@
                 "Source": "modrinth",
                 "ProjectID": "ObXSoyrn",
                 "URL": "https://modrinth.com/mod/simple-discord-rpc",
+                "IsServer": true
+            },
+            {
+                "Label": "Terralith",
+                "Source": "modrinth",
+                "ProjectID": "8oi3bsk5",
+                "URL": "https://modrinth.com/mod/terralith",
+                "IsServer": true
+            },
+            {
+                "Label": "No Chat Reports",
+                "Source": "modrinth",
+                "ProjectID": "qQyHxfxd",
+                "URL": "https://modrinth.com/mod/no-chat-reports",
+                "IsServer": true
+            },
+            {
+                "Label": "",
+                "Source": "modrinth",
+                "ProjectID": "",
+                "URL": "https://modrinth.com/mod/",
                 "IsServer": false
             }
         ],

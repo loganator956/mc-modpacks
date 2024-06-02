@@ -63,8 +63,28 @@
                 "ProjectID": "mOgUt4GM",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/modmenu"
+            },
+            {
+                "Label": "Continuity",
+                "IsServer": false,
+                "ProjectID": "1IjD5062",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/continuity"
+            },
+            {
+                "Label": "Indium",
+                "IsServer": false,
+                "ProjectID": "Orvt0mRa",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/indium"
+            },
+            {
+                "Label": "LambDynamicLights",
+                "IsServer": false,
+                "ProjectID": "yBW8D80W",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/lambdynamiclights"
             }
-            
         ],
         "ModBlacklist": [
             "nothingshfaihf"

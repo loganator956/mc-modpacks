@@ -51,13 +51,6 @@
                 "IsServer": false
             },
             {
-                "Label": "No Chat Reports",
-                "IsServer": true,
-                "ProjectID": "qQyHxfxd",
-                "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/no-chat-reports"
-            },
-            {
                 "Label": "Mod Menu",
                 "IsServer": false,
                 "ProjectID": "mOgUt4GM",
@@ -84,6 +77,20 @@
                 "ProjectID": "yBW8D80W",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/lambdynamiclights"
+            },
+            {
+                "Label": "Bobby",
+                "IsServer": false,
+                "ProjectID": "M08ruV16",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/bobby"
+            },
+            {
+                "Label": "JourneyMap",
+                "IsServer": true,
+                "ProjectID": "lfHFW1mp",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/journeymap"
             }
         ],
         "ModBlacklist": [

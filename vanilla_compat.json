@@ -91,6 +91,83 @@
                 "ProjectID": "lfHFW1mp",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/journeymap"
+            },
+            {
+                "Label": "WorldEdit",
+                "IsServer": true,
+                "ProjectID": "1u6JkXh5",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/plugin/worldedit"
+            },
+            {
+                "Label": "[ETF] Entity Texture Features",
+                "IsServer": false,
+                "ProjectID": "BVzZfTc1",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/entitytexturefeatures"
+            },
+            {
+                "Label": "Entity Culling",
+                "IsServer": false,
+                "ProjectID": "NNAgCjsB",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/entityculling"
+            },
+            {
+                "Label": "No Telemetry",
+                "IsServer": false,
+                "ProjectID": "hg77g4Pw",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/no-telemetry"
+            },
+            {
+                "Label": "[EMF] Entity Model Features",
+                "IsServer": false,
+                "ProjectID": "4I1XuqiY",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/entity-model-features"
+            },
+            {
+                "Label": "BetterF3",
+                "IsServer": false,
+                "ProjectID": "8shC1gFX",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/betterf3"
+            },
+            {
+                "Label": "Visuality",
+                "IsServer": false,
+                "ProjectID": "rI0hvYcd",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/visuality"
+            },
+            {
+                "Label": "Mouse Tweaks",
+                "IsServer": false,
+                "ProjectID": "aC3cM3Vq",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/mouse-tweaks"
+            },
+            {
+                "Label": "Clumps",
+                "IsServer": true,
+                "ProjectID": "Wnxd13zP",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/clumps"
+            },
+            {
+                "Label": "Fabrishot",
+                "IsServer": false,
+                "ProjectID": "3qsfQtE9",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/fabrishot"
+            },
+            {
+                "Label": "NetherPortalFix",
+                "IsServer": true,
+                "ProjectID": "nPZr02ET",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/netherportalfix"
             }
         ],
         "ModBlacklist": [

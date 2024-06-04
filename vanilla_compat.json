@@ -248,25 +248,25 @@
                 "Label": "Kappa Shader",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/shader/kappa-shader/version/5.2",
-                "VersionID": "Y8161YLz"
+                "VersionID": "KO0EB3IW"
             },
             {
                 "Label": "Bliss Shaders",
                 "Source": "modrinth",
-                "URL": "https://modrinth.com/shader/bliss-shader",
+                "URL": "https://modrinth.com/shader/bliss-shader/version/1",
                 "VersionID": "XMIeWOv9"
             },
             {
                 "Label": "AstraLex Shaders",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/shader/astralex/version/92.1",
-                "VersionID": "RphJSnEs"
+                "VersionID": "5dwd2E9U"
             },
             {
                 "Label": "Solas Shader",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/shader/solas-shader/version/2.0",
-                "VersionID": "EpQFjzrQ"
+                "VersionID": "3mGi0Tm7"
             }
         ]
     }

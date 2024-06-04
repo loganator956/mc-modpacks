@@ -142,6 +142,13 @@
                 "URL": "https://modrinth.com/mod/visuality"
             },
             {
+                "Label": "Logical Zoom",
+                "IsServer": false,
+                "ProjectID": "8bOImuGU",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/logical-zoom"
+            },
+            {
                 "Label": "Mouse Tweaks",
                 "IsServer": false,
                 "ProjectID": "aC3cM3Vq",

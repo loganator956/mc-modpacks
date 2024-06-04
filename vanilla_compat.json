@@ -149,6 +149,13 @@
                 "URL": "https://modrinth.com/mod/logical-zoom"
             },
             {
+                "Label": "Sodium Extra",
+                "IsServer": false,
+                "ProjectID": "PtjYWJkn",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/sodium-extra"
+            },
+            {
                 "Label": "Mouse Tweaks",
                 "IsServer": false,
                 "ProjectID": "aC3cM3Vq",

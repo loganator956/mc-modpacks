@@ -213,6 +213,60 @@
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/shader/arc-shader/version/0.15.2",
                 "VersionID": "etcq6IIX"
+            },
+            {
+                "Label": "BSL Shaders",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/bsl-shaders/version/v8.2.09p2",
+                "VersionID": "k7zNmcFF"
+            },
+            {
+                "Label": "Rethinking Voxels",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/rethinking-voxels/version/r0.1-beta3",
+                "VersionID": "i5OG3ddh"
+            },
+            {
+                "Label": "Noble Shaders",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/noble/version/1.6.7",
+                "VersionID": "QAc0MeLZ"
+            },
+            {
+                "Label": "Lux V1",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/lux-v1/version/1.1p1",
+                "VersionID": "2Aq4c926"
+            },
+            {
+                "Label": "Nostalgia Shader",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/nostalgia-shader/version/5.0",
+                "VersionID": "h5HAal4u"
+            },
+            {
+                "Label": "Kappa Shader",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/kappa-shader/version/5.2",
+                "VersionID": "Y8161YLz"
+            },
+            {
+                "Label": "Bliss Shaders",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/bliss-shader",
+                "VersionID": "XMIeWOv9"
+            },
+            {
+                "Label": "AstraLex Shaders",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/astralex/version/92.1",
+                "VersionID": "RphJSnEs"
+            },
+            {
+                "Label": "Solas Shader",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/solas-shader/version/2.0",
+                "VersionID": "EpQFjzrQ"
             }
         ]
     }

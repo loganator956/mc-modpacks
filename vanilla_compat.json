@@ -149,6 +149,13 @@
                 "URL": "https://modrinth.com/mod/logical-zoom"
             },
             {
+                "Label": "Better Ping Display [Fabric]",
+                "IsServer": false,
+                "ProjectID": "MS1ZMyR7",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/better-ping-display-fabric"
+            },
+            {
                 "Label": "Sodium Extra",
                 "IsServer": false,
                 "ProjectID": "PtjYWJkn",

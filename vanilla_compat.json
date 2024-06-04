@@ -168,6 +168,13 @@
                 "ProjectID": "nPZr02ET",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/netherportalfix"
+            },
+            {
+                "Label": "Universal Graves",
+                "IsServer": true,
+                "ProjectID": "yn9u3ypm",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/universal-graves"
             }
         ],
         "ModBlacklist": [

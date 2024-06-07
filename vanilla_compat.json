@@ -203,10 +203,15 @@
         ],
         "Shaders": [
             {
-                "Label": "Complementary Shaders v4",
+                "Label": "Complementary Shaders - Unbound",
                 "Source": "modrinth",
-                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
-                "VersionID": "G16NNnV9"
+                "URL": "https://modrinth.com/shader/complementary-unbound/version/r5.2.1",
+                "VersionID": "qWTl3wic"
+            },{
+                "Label": "Complementary Shaders - Reimagined",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-reimagined/version/r5.2.1",
+                "VersionID": "6lz4f6iK"
             },
             {
                 "Label": "Arc",

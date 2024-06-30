@@ -42,6 +42,12 @@
                 "IsServer": true
             },
             {
+                "Label": "Not Enough Animations",
+                "Source": "modrinth",
+                "ProjectID": "MPCX6s5C",
+                "IsServer": true
+            },
+            {
                 "Label": "[ETF] Entity Texture Features",
                 "Source": "modrinth",
                 "ProjectID": "BVzZfTc1",
@@ -255,12 +261,6 @@
                 "Label": "Just Enough Professions (JEP)",
                 "Source": "modrinth",
                 "ProjectID": "kB56GtWA",
-                "IsServer": true
-            },
-            {
-                "Label": "Just Enough Breeding (JEBr)",
-                "Source": "modrinth",
-                "ProjectID": "9Pk89J3g",
                 "IsServer": true
             },
             {

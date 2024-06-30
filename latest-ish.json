@@ -31,261 +31,313 @@
             },
             {
                 "Label": "Iris",
+                "Source": "modrinth",
                 "ProjectID": "YL57xq9U",
                 "IsServer": true
             },
             {
                 "Label": "Continuity",
+                "Source": "modrinth",
                 "ProjectID": "1IjD5062",
                 "IsServer": true
             },
             {
                 "Label": "Not Enough Animations",
+                "Source": "modrinth",
                 "ProjectID": "MPCX6s5C",
                 "IsServer": true
             },
             {
                 "Label": "[ETF] Entity Texture Features",
+                "Source": "modrinth",
                 "ProjectID": "BVzZfTc1",
                 "IsServer": true
             },
             {
                 "Label": "[EMF] Entity Model Features",
+                "Source": "modrinth",
                 "ProjectID": "4I1XuqiY",
                 "IsServer": true
             },
             {
                 "Label": "Visuality",
+                "Source": "modrinth",
                 "ProjectID": "rI0hvYcd",
                 "IsServer": true
             },
             {
                 "Label": "Animatica",
+                "Source": "modrinth",
                 "ProjectID": "PRN43VSY",
                 "IsServer": true
             },
             {
                 "Label": "Bobby",
+                "Source": "modrinth",
                 "ProjectID": "M08ruV16",
                 "IsServer": true
             },
             {
                 "Label": "Villager Names",
+                "Source": "modrinth",
                 "ProjectID": "gqRXDo8B",
                 "IsServer": true
             },
             {
                 "Label": "Charmonium",
+                "Source": "modrinth",
                 "ProjectID": "bpii4Xsa",
                 "IsServer": true
             },
             {
                 "Label": "Sodium",
+                "Source": "modrinth",
                 "ProjectID": "AANobbMI",
                 "IsServer": true
             },
             {
                 "Label": "Entity Culling",
+                "Source": "modrinth",
                 "ProjectID": "NNAgCjsB",
                 "IsServer": true
             },
             {
                 "Label": "Lithium",
+                "Source": "modrinth",
                 "ProjectID": "gvQqBUqZ",
                 "IsServer": true
             },
             {
                 "Label": "ModernFix",
+                "Source": "modrinth",
                 "ProjectID": "nmDcB62a",
                 "IsServer": true
             },
             {
                 "Label": "Enhanced Block Entities",
+                "Source": "modrinth",
                 "ProjectID": "OVuFYfre",
                 "IsServer": true
             },
             {
                 "Label": "Indium",
+                "Source": "modrinth",
                 "ProjectID": "Orvt0mRa",
                 "IsServer": true
             },
             {
                 "Label": "Reese's Sodium Options",
+                "Source": "modrinth",
                 "ProjectID": "Bh37bMuy",
                 "IsServer": true
             },
             {
                 "Label": "Zoomify",
+                "Source": "modrinth",
                 "ProjectID": "w7ThoJFB",
                 "IsServer": true
             },
             {
                 "Label": "No Chat Reports",
+                "Source": "modrinth",
                 "ProjectID": "qQyHxfxd",
                 "IsServer": true
             },
             {
                 "Label": "Debugify",
+                "Source": "modrinth",
                 "ProjectID": "QwxR6Gcd",
                 "IsServer": true
             },
             {
                 "Label": "Mod Menu",
+                "Source": "modrinth",
                 "ProjectID": "mOgUt4GM",
                 "IsServer": true
             },
             {
                 "Label": "Just Enough Items",
+                "Source": "modrinth",
                 "ProjectID": "u6dRKJwZ",
                 "IsServer": true
             },
             {
                 "Label": "BetterF3",
+                "Source": "modrinth",
                 "ProjectID": "8shC1gFX",
                 "IsServer": true
             },
             {
                 "Label": "Jade 🔍",
+                "Source": "modrinth",
                 "ProjectID": "nvQzSEkH",
                 "IsServer": true
             },
             {
                 "Label": "Mouse Tweaks",
+                "Source": "modrinth",
                 "ProjectID": "aC3cM3Vq",
                 "IsServer": true
             },
             {
                 "Label": "Chat Heads",
+                "Source": "modrinth",
                 "ProjectID": "Wb5oqrBJ",
                 "IsServer": true
             },
             {
                 "Label": "Fabrishot",
+                "Source": "modrinth",
                 "ProjectID": "3qsfQtE9",
                 "IsServer": true
             },
             {
                 "Label": "JourneyMap",
+                "Source": "modrinth",
                 "ProjectID": "lfHFW1mp",
                 "IsServer": true
             },
             {
                 "Label": "NetherPortalFix",
+                "Source": "modrinth",
                 "ProjectID": "nPZr02ET",
                 "IsServer": true
             },
             {
                 "Label": "Controlify",
+                "Source": "modrinth",
                 "ProjectID": "DOUdJVEm",
                 "IsServer": true
             },
             {
                 "Label": "FallingTree",
+                "Source": "modrinth",
                 "ProjectID": "Fb4jn8m6",
                 "IsServer": true
             },
             {
                 "Label": "Simple Discord RPC",
+                "Source": "modrinth",
                 "ProjectID": "ObXSoyrn",
                 "IsServer": true
             },
             {
                 "Label": "RightClickHarvest",
+                "Source": "modrinth",
                 "ProjectID": "Cnejf5xM",
                 "IsServer": true
             },
             {
                 "Label": "Ping Wheel",
+                "Source": "modrinth",
                 "ProjectID": "QQXAdCzh",
                 "IsServer": true
             },
             {
                 "Label": "KleeSlabs",
+                "Source": "modrinth",
                 "ProjectID": "7uh75ruZ",
                 "IsServer": true
             },
             {
                 "Label": "WorldEdit",
+                "Source": "modrinth",
                 "ProjectID": "1u6JkXh5",
                 "IsServer": true
             },
             {
                 "Label": "Universal Graves",
+                "Source": "modrinth",
                 "ProjectID": "yn9u3ypm",
                 "IsServer": true
             },
             {
                 "Label": "Areas",
+                "Source": "modrinth",
                 "ProjectID": "NWvsqJ2Z",
                 "IsServer": true
             },
             {
                 "Label": "Just Enough Professions (JEP)",
+                "Source": "modrinth",
                 "ProjectID": "kB56GtWA",
                 "IsServer": true
             },
             {
                 "Label": "Just Enough Breeding (JEBr)",
+                "Source": "modrinth",
                 "ProjectID": "9Pk89J3g",
                 "IsServer": true
             },
             {
                 "Label": "Just Enough Effect Descriptions (JEED)",
+                "Source": "modrinth",
                 "ProjectID": "EO27GKs1",
                 "IsServer": true
             },
             {
                 "Label": "Random Village Names",
+                "Source": "modrinth",
                 "ProjectID": "N0ytbukx",
                 "IsServer": true
             },
             {
                 "Label": "Chest Tracker",
+                "Source": "modrinth",
                 "ProjectID": "ni4SrKmq",
                 "IsServer": true
             },
             {
                 "Label": "Fish On The Line",
+                "Source": "modrinth",
                 "ProjectID": "R6PYx1PW",
                 "IsServer": true
             },
             {
                 "Label": "Animal Feeding Trough",
+                "Source": "modrinth",
                 "ProjectID": "bRFWnJ87",
                 "IsServer": true
             },
             {
                 "Label": "Macaw's Fences and Walls",
+                "Source": "modrinth",
                 "ProjectID": "GmwLse2I",
                 "IsServer": true
             },
             {
                 "Label": "Enchanted Vertical Slabs",
+                "Source": "modrinth",
                 "ProjectID": "TG1cHkRf",
                 "IsServer": true
             },
             {
                 "Label": "Macaw's Paths and Pavings",
+                "Source": "modrinth",
                 "ProjectID": "VRLhWB91",
                 "IsServer": true
             },
             {
                 "Label": "Macaw's Doors",
+                "Source": "modrinth",
                 "ProjectID": "kNxa8z3e",
                 "IsServer": true
             },
             {
                 "Label": "Macaw's Trapdoors",
+                "Source": "modrinth",
                 "ProjectID": "n2fvCDlM",
                 "IsServer": true
             },
             {
                 "Label": "Macaw's Lights and Lamp",
+                "Source": "modrinth",
                 "ProjectID": "w4an97C2",
                 "IsServer": true
             },
             {
                 "Label": "More Crafting Tables (MCT)",
+                "Source": "modrinth",
                 "ProjectID": "C5hwIsg1",
                 "IsServer": true
             }

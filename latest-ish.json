@@ -1,0 +1,318 @@
+[
+    {
+        "Name": "latest-ish",
+        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.9.2/quilt-installer-0.9.2.jar",
+        "ModLoaderInstallArgs": "install client 1.21 0.26.0 --no-profile",
+        "ProfileUUID": "latest-ish",
+        "MinecraftProfile": [
+            {
+                "name": "Latest-ish",
+                "type": "custom",
+                "created": "1970-01-01T00:00:00.000Z",
+                "lastUsed": "1970-01-01T00:00:00.000Z",
+                "icon": "Leaves_Birch",
+                "lastVersionId": "quilt-loader-0.26.0-1.21",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\latest-ish"
+            }
+        ],
+        "AllowedModLoaders": [
+            "fabric",
+            "quilt"
+        ],
+        "AllowedGameVersions": [
+            "1.21"
+        ],
+        "Mods": [
+            {
+                "Label": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+                "Source": "modrinth",
+                "ProjectID": "qvIfYCYJ",
+                "URL": "https://modrinth.com/mod/qsl",
+                "IsServer": true
+            },
+            {
+                "Label": "Iris",
+                "ProjectID": "YL57xq9U",
+                "IsServer": true
+            },
+            {
+                "Label": "Continuity",
+                "ProjectID": "1IjD5062",
+                "IsServer": true
+            },
+            {
+                "Label": "Not Enough Animations",
+                "ProjectID": "MPCX6s5C",
+                "IsServer": true
+            },
+            {
+                "Label": "[ETF] Entity Texture Features",
+                "ProjectID": "BVzZfTc1",
+                "IsServer": true
+            },
+            {
+                "Label": "[EMF] Entity Model Features",
+                "ProjectID": "4I1XuqiY",
+                "IsServer": true
+            },
+            {
+                "Label": "Visuality",
+                "ProjectID": "rI0hvYcd",
+                "IsServer": true
+            },
+            {
+                "Label": "Animatica",
+                "ProjectID": "PRN43VSY",
+                "IsServer": true
+            },
+            {
+                "Label": "Bobby",
+                "ProjectID": "M08ruV16",
+                "IsServer": true
+            },
+            {
+                "Label": "Villager Names",
+                "ProjectID": "gqRXDo8B",
+                "IsServer": true
+            },
+            {
+                "Label": "Charmonium",
+                "ProjectID": "bpii4Xsa",
+                "IsServer": true
+            },
+            {
+                "Label": "Sodium",
+                "ProjectID": "AANobbMI",
+                "IsServer": true
+            },
+            {
+                "Label": "Entity Culling",
+                "ProjectID": "NNAgCjsB",
+                "IsServer": true
+            },
+            {
+                "Label": "Lithium",
+                "ProjectID": "gvQqBUqZ",
+                "IsServer": true
+            },
+            {
+                "Label": "ModernFix",
+                "ProjectID": "nmDcB62a",
+                "IsServer": true
+            },
+            {
+                "Label": "Enhanced Block Entities",
+                "ProjectID": "OVuFYfre",
+                "IsServer": true
+            },
+            {
+                "Label": "Indium",
+                "ProjectID": "Orvt0mRa",
+                "IsServer": true
+            },
+            {
+                "Label": "Reese's Sodium Options",
+                "ProjectID": "Bh37bMuy",
+                "IsServer": true
+            },
+            {
+                "Label": "Zoomify",
+                "ProjectID": "w7ThoJFB",
+                "IsServer": true
+            },
+            {
+                "Label": "No Chat Reports",
+                "ProjectID": "qQyHxfxd",
+                "IsServer": true
+            },
+            {
+                "Label": "Debugify",
+                "ProjectID": "QwxR6Gcd",
+                "IsServer": true
+            },
+            {
+                "Label": "Mod Menu",
+                "ProjectID": "mOgUt4GM",
+                "IsServer": true
+            },
+            {
+                "Label": "Just Enough Items",
+                "ProjectID": "u6dRKJwZ",
+                "IsServer": true
+            },
+            {
+                "Label": "BetterF3",
+                "ProjectID": "8shC1gFX",
+                "IsServer": true
+            },
+            {
+                "Label": "Jade 🔍",
+                "ProjectID": "nvQzSEkH",
+                "IsServer": true
+            },
+            {
+                "Label": "Mouse Tweaks",
+                "ProjectID": "aC3cM3Vq",
+                "IsServer": true
+            },
+            {
+                "Label": "Chat Heads",
+                "ProjectID": "Wb5oqrBJ",
+                "IsServer": true
+            },
+            {
+                "Label": "Fabrishot",
+                "ProjectID": "3qsfQtE9",
+                "IsServer": true
+            },
+            {
+                "Label": "JourneyMap",
+                "ProjectID": "lfHFW1mp",
+                "IsServer": true
+            },
+            {
+                "Label": "NetherPortalFix",
+                "ProjectID": "nPZr02ET",
+                "IsServer": true
+            },
+            {
+                "Label": "Controlify",
+                "ProjectID": "DOUdJVEm",
+                "IsServer": true
+            },
+            {
+                "Label": "FallingTree",
+                "ProjectID": "Fb4jn8m6",
+                "IsServer": true
+            },
+            {
+                "Label": "Simple Discord RPC",
+                "ProjectID": "ObXSoyrn",
+                "IsServer": true
+            },
+            {
+                "Label": "RightClickHarvest",
+                "ProjectID": "Cnejf5xM",
+                "IsServer": true
+            },
+            {
+                "Label": "Ping Wheel",
+                "ProjectID": "QQXAdCzh",
+                "IsServer": true
+            },
+            {
+                "Label": "KleeSlabs",
+                "ProjectID": "7uh75ruZ",
+                "IsServer": true
+            },
+            {
+                "Label": "WorldEdit",
+                "ProjectID": "1u6JkXh5",
+                "IsServer": true
+            },
+            {
+                "Label": "Universal Graves",
+                "ProjectID": "yn9u3ypm",
+                "IsServer": true
+            },
+            {
+                "Label": "Areas",
+                "ProjectID": "NWvsqJ2Z",
+                "IsServer": true
+            },
+            {
+                "Label": "Just Enough Professions (JEP)",
+                "ProjectID": "kB56GtWA",
+                "IsServer": true
+            },
+            {
+                "Label": "Just Enough Breeding (JEBr)",
+                "ProjectID": "9Pk89J3g",
+                "IsServer": true
+            },
+            {
+                "Label": "Just Enough Effect Descriptions (JEED)",
+                "ProjectID": "EO27GKs1",
+                "IsServer": true
+            },
+            {
+                "Label": "Random Village Names",
+                "ProjectID": "N0ytbukx",
+                "IsServer": true
+            },
+            {
+                "Label": "Chest Tracker",
+                "ProjectID": "ni4SrKmq",
+                "IsServer": true
+            },
+            {
+                "Label": "Fish On The Line",
+                "ProjectID": "R6PYx1PW",
+                "IsServer": true
+            },
+            {
+                "Label": "Animal Feeding Trough",
+                "ProjectID": "bRFWnJ87",
+                "IsServer": true
+            },
+            {
+                "Label": "Macaw's Fences and Walls",
+                "ProjectID": "GmwLse2I",
+                "IsServer": true
+            },
+            {
+                "Label": "Enchanted Vertical Slabs",
+                "ProjectID": "TG1cHkRf",
+                "IsServer": true
+            },
+            {
+                "Label": "Macaw's Paths and Pavings",
+                "ProjectID": "VRLhWB91",
+                "IsServer": true
+            },
+            {
+                "Label": "Macaw's Doors",
+                "ProjectID": "kNxa8z3e",
+                "IsServer": true
+            },
+            {
+                "Label": "Macaw's Trapdoors",
+                "ProjectID": "n2fvCDlM",
+                "IsServer": true
+            },
+            {
+                "Label": "Macaw's Lights and Lamp",
+                "ProjectID": "w4an97C2",
+                "IsServer": true
+            },
+            {
+                "Label": "More Crafting Tables (MCT)",
+                "ProjectID": "C5hwIsg1",
+                "IsServer": true
+            }
+        ],
+        "ModBlacklist": [
+            "nothingshfaihf"
+        ],
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders - Unbound",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-unbound/version/r5.2.1",
+                "VersionID": "qWTl3wic"
+            },
+            {
+                "Label": "Complementary Shaders - Reimagined",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-reimagined/version/r5.2.1",
+                "VersionID": "6lz4f6iK"
+            },
+            {
+                "Label": "BSL Shaders",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/bsl-shaders/version/v8.2.09p2",
+                "VersionID": "k7zNmcFF"
+            }
+        ]
+    }
+]

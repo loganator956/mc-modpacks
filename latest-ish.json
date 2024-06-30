@@ -42,12 +42,6 @@
                 "IsServer": true
             },
             {
-                "Label": "Not Enough Animations",
-                "Source": "modrinth",
-                "ProjectID": "MPCX6s5C",
-                "IsServer": true
-            },
-            {
                 "Label": "[ETF] Entity Texture Features",
                 "Source": "modrinth",
                 "ProjectID": "BVzZfTc1",

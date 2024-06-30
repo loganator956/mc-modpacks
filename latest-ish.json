@@ -2,7 +2,7 @@
     {
         "Name": "latest-ish",
         "ModLoader": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar",
-        "ModLoaderInstallArgs": "client -mcversion 1.20.6 -loader 0.15.11 -noprofile",
+        "ModLoaderInstallArgs": "client -mcversion 1.21 -loader 0.15.11 -noprofile",
         "ProfileUUID": "latest-ish",
         "MinecraftProfile": [
             {
@@ -11,7 +11,7 @@
                 "created": "1970-01-01T00:00:00.000Z",
                 "lastUsed": "1970-01-01T00:00:00.000Z",
                 "icon": "Leaves_Birch",
-                "lastVersionId": "fabric-loader-0.15.11-1.20.6",
+                "lastVersionId": "fabric-loader-0.15.11-1.21",
                 "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\latest-ish"
             }
         ],
@@ -23,9 +23,9 @@
         ],
         "Mods": [
             {
-                "Label": "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)",
+                "Label": "Fabric API",
                 "Source": "modrinth",
-                "ProjectID": "qvIfYCYJ",
+                "ProjectID": "P7dR8mSH",
                 "URL": "https://modrinth.com/mod/qsl",
                 "IsServer": true
             },

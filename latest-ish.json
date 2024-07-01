@@ -156,12 +156,6 @@
                 "IsServer": true
             },
             {
-                "Label": "Just Enough Items",
-                "Source": "modrinth",
-                "ProjectID": "u6dRKJwZ",
-                "IsServer": true
-            },
-            {
                 "Label": "BetterF3",
                 "Source": "modrinth",
                 "ProjectID": "8shC1gFX",
@@ -255,18 +249,6 @@
                 "Label": "Areas",
                 "Source": "modrinth",
                 "ProjectID": "NWvsqJ2Z",
-                "IsServer": true
-            },
-            {
-                "Label": "Just Enough Professions (JEP)",
-                "Source": "modrinth",
-                "ProjectID": "kB56GtWA",
-                "IsServer": true
-            },
-            {
-                "Label": "Just Enough Effect Descriptions (JEED)",
-                "Source": "modrinth",
-                "ProjectID": "EO27GKs1",
                 "IsServer": true
             },
             {

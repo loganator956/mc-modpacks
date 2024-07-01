@@ -30,6 +30,25 @@
                 "IsServer": true
             },
             {
+                "Label": "Roughly Enough Items (REI)",
+                "IsServer": false,
+                "ProjectID": "nfn13YXA",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/rei"
+            },
+            {
+                "Label": "Sodium",
+                "Source": "modrinth",
+                "VersionID": "dNHeFokL",
+                "IsServer": true
+            },
+            {
+                "Label": "Sodium Extra",
+                "Source": "modrinth",
+                "ProjectID": "PtjYWJkn",
+                "IsServer": true
+            },
+            {
                 "Label": "Iris",
                 "Source": "modrinth",
                 "ProjectID": "YL57xq9U",
@@ -90,12 +109,6 @@
                 "IsServer": true
             },
             {
-                "Label": "Sodium",
-                "Source": "modrinth",
-                "VersionID": "dNHeFokL",
-                "IsServer": true
-            },
-            {
                 "Label": "Entity Culling",
                 "Source": "modrinth",
                 "ProjectID": "NNAgCjsB",
@@ -153,12 +166,6 @@
                 "Label": "Mod Menu",
                 "Source": "modrinth",
                 "ProjectID": "mOgUt4GM",
-                "IsServer": true
-            },
-            {
-                "Label": "Just Enough Items",
-                "Source": "modrinth",
-                "ProjectID": "u6dRKJwZ",
                 "IsServer": true
             },
             {
@@ -255,18 +262,6 @@
                 "Label": "Areas",
                 "Source": "modrinth",
                 "ProjectID": "NWvsqJ2Z",
-                "IsServer": true
-            },
-            {
-                "Label": "Just Enough Professions (JEP)",
-                "Source": "modrinth",
-                "ProjectID": "kB56GtWA",
-                "IsServer": true
-            },
-            {
-                "Label": "Just Enough Effect Descriptions (JEED)",
-                "Source": "modrinth",
-                "ProjectID": "EO27GKs1",
                 "IsServer": true
             },
             {

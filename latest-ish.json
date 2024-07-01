@@ -30,6 +30,13 @@
                 "IsServer": true
             },
             {
+                "Label": "Roughly Enough Items (REI)",
+                "IsServer": false,
+                "ProjectID": "nfn13YXA",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/mod/rei"
+            }
+            {
                 "Label": "Sodium",
                 "Source": "modrinth",
                 "VersionID": "dNHeFokL",

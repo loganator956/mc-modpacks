@@ -35,11 +35,17 @@
                 "ProjectID": "nfn13YXA",
                 "Source": "modrinth",
                 "URL": "https://modrinth.com/mod/rei"
-            }
+            },
             {
                 "Label": "Sodium",
                 "Source": "modrinth",
                 "VersionID": "dNHeFokL",
+                "IsServer": true
+            },
+            {
+                "Label": "Sodium Extra",
+                "Source": "modrinth",
+                "ProjectID": "PtjYWJkn",
                 "IsServer": true
             },
             {

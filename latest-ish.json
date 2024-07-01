@@ -30,6 +30,12 @@
                 "IsServer": true
             },
             {
+                "Label": "Sodium",
+                "Source": "modrinth",
+                "VersionID": "dNHeFokL",
+                "IsServer": true
+            },
+            {
                 "Label": "Iris",
                 "Source": "modrinth",
                 "ProjectID": "YL57xq9U",
@@ -87,12 +93,6 @@
                 "Label": "Charmonium",
                 "Source": "modrinth",
                 "ProjectID": "bpii4Xsa",
-                "IsServer": true
-            },
-            {
-                "Label": "Sodium",
-                "Source": "modrinth",
-                "VersionID": "dNHeFokL",
                 "IsServer": true
             },
             {

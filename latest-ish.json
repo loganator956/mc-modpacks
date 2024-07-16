@@ -23,6 +23,18 @@
         ],
         "Mods": [
             {
+                "Label": "SuperBetterGrass",
+                "IsServer": false,
+                "Source": "curseforge",
+                "URL": "https://mediafilez.forgecdn.net/files/5427/366/SuperBetterGrass-1.5.3%2B1.21.jar"
+            },
+            {
+                "URL": "https://mediafilez.forgecdn.net/files/5423/999/Mo-Glass-1.8.1-MC1.21.jar",
+                "IsServer":true,
+                "Label": "Mo Glass",
+                "Source":"curseforge"
+            },
+            {
                 "Label": "Fabric API",
                 "Source": "modrinth",
                 "ProjectID": "P7dR8mSH",

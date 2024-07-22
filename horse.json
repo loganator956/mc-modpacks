@@ -54,13 +54,6 @@
                 "URL": "https://mediafilez.forgecdn.net/files/5388/226/framework-forge-1.20.1-0.7.6.jar"
             },
             {
-                "Label": "Just Enough Items",
-                "IsServer": false,
-                "Source": "modrinth",
-                "ProjectID": "u6dRKJwZ",
-                "VersionID": "FWlyYcv9"
-            },
-            {
                 "Label": "Simple Discord RPC",
                 "Source": "modrinth",
                 "ProjectID": "ObXSoyrn",

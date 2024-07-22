@@ -103,11 +103,26 @@
                 "Source":"modrinth"
             },
             {
+                "Label": "Cloth Config API",
+                "IsServer": true,
+                "ProjectID": "9s6osm5g",
+                "Source": "modrinth",
+                "VersionID": "nr1znv5v"
+            },
+            {
+                "Label": "Architectury API",
+                "IsServer": true,
+                "ProjectID": "lhGA9TYQ",
+                "Source": "modrinth",
+                "VersionID": "1MKTLiiG"
+            },
+            {
                 "Label": "Roughly Enough Items (REI)",
                 "IsServer": false,
                 "ProjectID": "nfn13YXA",
                 "Source": "modrinth",
-                "URL": "https://modrinth.com/mod/rei"
+                "URL": "https://modrinth.com/mod/rei",
+                "VersionID": "ZgGvCEA6"
             },
             {
                 "Label": "Jade 🔍",

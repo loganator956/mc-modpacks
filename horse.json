@@ -129,6 +129,20 @@
                 "Source": "modrinth",
                 "ProjectID": "nvQzSEkH",
                 "IsServer": true
+            },
+            {
+                "Label": "[ETF] Entity Texture Features",
+                "Source": "modrinth",
+                "IsServer": false,
+                "ProjectID": "BVzZfTc1",
+                "VersionID": "VzqvqFHV"
+            },
+            {
+                "Label": "[EMF] Entity Model Features",
+                "IsServer": false,
+                "ProjectID": "4I1XuqiY",
+                "Source": "modrinth",
+                "VersionID": "7Jih1uiK"
             }
         ],
         "ModBlacklist": [

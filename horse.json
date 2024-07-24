@@ -24,6 +24,18 @@
         ],
         "Mods": [
             {
+                "Label": "Realistic Horse Breeds",
+                "IsServer": true,
+                "Source": "curseforge",
+                "URL": "https://mediafilez.forgecdn.net/files/5529/242/realistic_horse_genetics-1.20.1-13.3.jar"
+            },
+            {
+                "Label": "Horse Tack",
+                "IsServer": true,
+                "Source":"curseforge",
+                "URL": "https://mediafilez.forgecdn.net/files/4679/537/horse_tack-4.2-1.20.1.jar"
+            },
+            {
                 "Label": "Star Worm Equestrian (Upgrading Horses)",
                 "IsServer": true,
                 "Source": "curseforge",

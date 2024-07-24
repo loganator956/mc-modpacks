@@ -36,6 +36,12 @@
                 "URL": "https://mediafilez.forgecdn.net/files/4679/537/horse_tack-4.2-1.20.1.jar"
             },
             {
+                "Label": "Albane's Extra Textures",
+                "IsServer": false,
+                "Source": "curseforge",
+                "URL": "https://mediafilez.forgecdn.net/files/4794/837/albanes_extra_textures-1.20.1-1.2.0.jar"
+            },
+            {
                 "Label": "Star Worm Equestrian (Upgrading Horses)",
                 "IsServer": true,
                 "Source": "curseforge",

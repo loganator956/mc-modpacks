@@ -1,0 +1,260 @@
+[
+    {
+        "Name": "Latest Vanilla+",
+        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
+        "ModLoaderInstallArgs": "--installClient",
+        "ProfileUUID": "5cf6e693-3cf3-4f09-a265-fb6417a802f1",
+        "AllowedModLoaders": [
+            "neoforge"
+        ],
+        "AllowedGameVersions": [
+            "1.21.5"
+        ],
+        "MinecraftProfile": [
+            {
+                "name": "Latest Vanilla+",
+                "type": "custom",
+                "created": "2025-04-16T09:03:52.611Z",
+                "lastUsed": "2025-04-16T09:03:52.611Z",
+                "icon": "Furnace",
+                "lastVersionId": "neoforge-21.5.40-beta",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\latest_compat"
+            }
+        ],
+        "Mods": [
+            {
+                "Label": "Sodium",
+                "Source": "modrinth",
+                "VersionID": "dfyNHRhw",
+                "ProjectID": "AANobbMI"
+            },
+            {
+                "Label": "Sodium Extra",
+                "Source": "modrinth",
+                "VersionID": "vPAuJaoq",
+                "ProjectID": "PtjYWJkn"
+            },
+            {
+                "Label": "Lithium",
+                "ProjectID": "gvQqBUqZ",
+                "Source": "modrinth",
+                "VersionID": "2xAqic6O"
+            },
+            {
+                "Label": "Reese's Sodium Options",
+                "ProjectID": "Bh37bMuy",
+                "Source":"modrinth",
+                "VersionID": "xAiCe6w8"
+            },
+            {
+                "Label": "Iris Shaders",
+                "ProjectID": "YL57xq9U",
+                "Source": "modrinth",
+                "VersionID": "KAopiPos"
+            },
+            {
+                "Label": "JourneyMap",
+                "ProjectID": "lfHFW1mp",
+                "Source": "modrinth",
+                "VersionID": "ADz4pbjA"
+            },
+            {
+                "Label": "Cubes Without Borders",
+                "ProjectID": "ETlrkaYF",
+                "Source": "modrinth",
+                "VersionID": "LVyrf63X"
+            },
+            {
+                "Label": "Cloth Config API",
+                "ProjectID": "9s6osm5g",
+                "Source": "modrinth",
+                "VersionID": "jjrPm6iW"
+            },
+            {
+                "Label": "Jade",
+                "ProjectID": "nvQzSEkH",
+                "Source": "modrinth",
+                "VersionID": "2B1K9HAo"
+            },
+            {
+                "Label": "No Chat Reports",
+                "ProjectID": "qQyHxfxd",
+                "Source": "modrinth",
+                "VersionID": "uks6FgIW"
+            },
+            {
+                "Label": "Entity Culling",
+                "ProjectID": "NNAgCjsB",
+                "Source": "modrinth",
+                "VersionID": "F5yQEwdG"
+            },
+            {
+                "Label": "Roughly Enough Items (REI)",
+                "ProjectID": "nfn13YXA",
+                "Source": "modrinth",
+                "VersionID": "QmstUyzn"
+            },
+            {
+                "Label": "[ETF] Entity Texture Features",
+                "ProjectID": "BVzZfTc1",
+                "Source":"modrinth",
+                "VersionID": "lUzH7qWQ"
+            },
+            {
+                "Label": "[EMF] Entity Model Features",
+                "ProjectID": "4I1XuqiY",
+                "Source":"modrinth",
+                "VersionID": "HrA6Y4gV"
+            },
+            {
+                "Label": "No Chat Reports",
+                "ProjectID": "qQyHxfxd",
+                "Source":"modrinth",
+                "VersionID": "uks6FgIW"
+            },
+            {
+                "Label": "Jade 🔍",
+                "ProjectID": "nvQzSEkH",
+                "Source":"modrinth",
+                "VersionID": "2B1K9HAo"
+            },
+            {
+                "Label": "Tree Harvester",
+                "ProjectID": "abooMhox",
+                "Source":"modrinth",
+                "VersionID":"NEuiaGve"
+            },
+            {
+                "Label": "Stoneworks",
+                "ProjectID": "FzyTKtVF",
+                "Source":"modrinth",
+                "VersionID": "HIV2rRvb"
+            },
+            {
+                "Label": "Zume",
+                "ProjectID": "o6qsdrrQ",
+                "Source":"modrinth",
+                "VersionID": "5J6WsndO"
+            },
+            {
+                "Label": "NetherPortalFix",
+                "ProjectID": "nPZr02ET",
+                "Source": "modrinth",
+                "VersionID": "Hg8R1sPY"
+            },
+            {
+                "Label": "Cut Through",
+                "ProjectID": "Dk6su9JN",
+                "Source":"modrinth",
+                "VersionID": "zT3DCxVG"
+            },
+            {
+                "Label": "Macaw's Stairs",
+                "ProjectID": "iP3wH1ha",
+                "Source":"modrinth",
+                "VersionID": "Wz4Qf1dq"
+            },
+            {
+                "Label": "Camperapture",
+                "ProjectID": "9dzLWnmZ",
+                "Source":"modrinth",
+                "VersionID": "QOuuFdOU"
+            },
+            {
+                "Label": "Leash Villager",
+                "ProjectID": "PXOlmnke",
+                "Source": "modrinth",
+                "VersionID": "4d0HEvBA"
+            },
+            {
+                "Label":"Macaw's Fences and Walls",
+                "ProjectID": "GmwLse2I",
+                "Source": "modrinth",
+                "VersionID": "nhX0cTIK"
+            },
+            {
+                "Label": "Simple Discord RPC",
+                "ProjectID": "ObXSoyrn",
+                "Source":"modrinth",
+                "VersionID": "lWit8H0w"
+            },
+            {
+                "Label": "No Telemetry",
+                "ProjectID": "hg77g4Pw",
+                "Source":"modrinth",
+                "VersionID": "OwTaGd6A"
+            },
+            {
+                "Label": "Macaw's Doors",
+                "ProjectID": "kNxa8z3e",
+                "Source":"modrinth",
+                "VersionID": "kREnKIi3"
+            },
+            {
+                "Label": "Adorn",
+                "ProjectID": "E6FUtRJh",
+                "Source":"modrinth",
+                "VersionID": "6tTJVMXu"
+            },
+            {
+                "Label": "Enchanted Vertical Slabs",
+                "ProjectID": "TG1cHkRf",
+                "Source":"modrinth",
+                "VersionID": "IG4DIjOb"
+            },
+            {
+                "Label": "Macaw's Trapdoors",
+                "ProjectID": "n2fvCDlM",
+                "Source":"modrinth",
+                "VersionID": "XuawP0SE"
+            },
+            {
+                "Label": "Macaw's Paths and Pavings",
+                "ProjectID": "VRLhWB91",
+                "Source":"modrinth",
+                "VersionID": "ZNvtecir"
+            },
+            {
+                "Label": "Corpse",
+                "ProjectID": "WrpuIfhw",
+                "Source": "modrinth",
+                "VersionID": "oTthtZtr"
+            },
+            {
+                "Label": "Just Hammers",
+                "ProjectID": "edU0NbZZ",
+                "Source": "modrinth",
+                "VersionID": "P3Ky5ZLu"
+            },
+            {
+                "Label": "Realistic Bees",
+                "ProjectID":"tG6HkcWx",
+                "Source":"modrinth",
+                "VersionID": "1QY9AsuZ"
+            },
+            {
+                "Label": "Chisel Reborn",
+                "ProjectID": "4KWv7wbN",
+                "Source":"modrinth",
+                "VersionID": "xMnwB3Qb"
+            }
+        ],
+        "ModBlacklist": [
+            "hdasdhjasghidsa"
+        ],
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders v4",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
+                "VersionID": "G16NNnV9"
+            },
+            {
+                "Label": "Arc",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/arc-shader/version/0.15.2",
+                "VersionID": "etcq6IIX"
+            }
+        ]
+    }
+]

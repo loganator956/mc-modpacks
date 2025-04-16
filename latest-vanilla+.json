@@ -1,7 +1,7 @@
 [
     {
         "Name": "Latest Vanilla+",
-        "ModLoader": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/0.8.2/quilt-installer-0.8.2.jar",
+        "ModLoader": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.5.40-beta/neoforge-21.5.40-beta-installer.jar",
         "ModLoaderInstallArgs": "--installClient",
         "ProfileUUID": "5cf6e693-3cf3-4f09-a265-fb6417a802f1",
         "AllowedModLoaders": [

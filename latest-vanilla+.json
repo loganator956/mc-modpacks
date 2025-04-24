@@ -237,6 +237,12 @@
                 "ProjectID": "4KWv7wbN",
                 "Source":"modrinth",
                 "VersionID": "xMnwB3Qb"
+            },
+            {
+                "Label": "JourneyMap Web Map",
+                "ProjectID": "YaZ1fUTg",
+                "Source": "modrinth",
+                "VersionID": "ksi9i2Vt"
             }
         ],
         "ModBlacklist": [

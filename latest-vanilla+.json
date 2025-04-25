@@ -243,6 +243,12 @@
                 "ProjectID": "YaZ1fUTg",
                 "Source": "modrinth",
                 "VersionID": "ksi9i2Vt"
+            },
+            {
+                "Label": "Tom's Storage",
+                "ProjectID": "XZNI4Cpy",
+                "Source": "modrinth",
+                "VersionID": "ndqhoHkO"
             }
         ],
         "ModBlacklist": [

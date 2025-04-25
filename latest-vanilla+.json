@@ -249,6 +249,12 @@
                 "ProjectID": "XZNI4Cpy",
                 "Source": "modrinth",
                 "VersionID": "ndqhoHkO"
+            },
+            {
+                "Label": "RightClickHarvest",
+                "ProjectID": "Cnejf5xM",
+                "Source":"modrinth",
+                "VersionID": "fFJP8A8M"
             }
         ],
         "ModBlacklist": [

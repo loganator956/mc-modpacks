@@ -43,11 +43,6 @@
                 "Source": "modrinth"
             },
             {
-                "Label": "Clumps",
-                "ProjectID": "Wnxd13zP",
-                "Source": "modrinth"
-            },
-            {
                 "Label": "Controlify (Controller support)",
                 "ProjectID": "DOUdJVEm",
                 "Source": "modrinth"
@@ -75,41 +70,6 @@
             {
                 "Label": "RightClickHarvest",
                 "ProjectID": "Cnejf5xM",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Explorify",
-                "ProjectID": "HSfsxuTo",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Dismount Entity",
-                "ProjectID": "H7N61Wcl",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Healing Campfire",
-                "ProjectID": "kOuPUitF",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Block Runner",
-                "ProjectID": "1VSGxqkt",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Crops Love Rain",
-                "ProjectID": "cRci7UZp",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Fish On The Line",
-                "ProjectID": "R6PYx1PW",
-                "Source": "modrinth"
-            },
-            {
-                "Label": "Scaffolding Drops Nearby",
-                "ProjectID": "uO522mgw",
                 "Source": "modrinth"
             }
         ],

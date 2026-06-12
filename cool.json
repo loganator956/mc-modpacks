@@ -24,6 +24,11 @@
         "ModLoaderInstallArgs": "--installClient",
         "Mods": [
             {
+                "Label": "Geckolib",
+                "ProjectID": "8BmcQJ2H",
+                "Source": "modrinth"
+            },
+            {
                 "Label": "Sodium",
                 "ProjectID": "AANobbMI",
                 "Source": "modrinth"

@@ -1,0 +1,464 @@
+[
+    {
+        "AllowedGameVersions": [
+            "1.21.1"
+        ],
+        "AllowedModLoaders": [
+            "neoforge"
+        ],
+        "MinecraftProfile": [
+            {
+                "created": "2026-06-12T09:03:52.611Z",
+                "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\41191494-5586-4b77-9092-86ccd75a448f",
+                "icon": "Furnace",
+                "lastUsed": "2030-04-16T09:03:52.611Z",
+                "lastVersionId": "neoforge-21.1.233",
+                "name": "Cool Mods",
+                "type": "custom"
+            }
+        ],
+        "ModBlacklist": [
+            "hdasdhjasghidsa"
+        ],
+        "ModLoader": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.233/neoforge-21.1.233-installer.jar",
+        "ModLoaderInstallArgs": "--installClient",
+        "Mods": [
+            {
+                "Label": "Sodium",
+                "ProjectID": "AANobbMI",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Immersive Engineering",
+                "ProjectID": "tIm2nV03",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Entity Texture Features",
+                "ProjectID": "BVzZfTc1",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Macaw’s Windows",
+                "ProjectID": "C7I0BCni",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Diagonal Fences",
+                "ProjectID": "IKARgflD",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Zume",
+                "ProjectID": "o6qsdrrQ",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "WorldEdit",
+                "ProjectID": "1u6JkXh5",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Create Crafts \u0026 Additions",
+                "ProjectID": "kU1G12Nn",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Simply Swods",
+                "ProjectID": "bK3Ubu9p",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Better Combat",
+                "ProjectID": "5sy6g3kz",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Stoneworks",
+                "ProjectID": "FzyTKtVF",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Trading Post",
+                "ProjectID": "8pcjMDgj",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Item Borders",
+                "ProjectID": "b1fMg6sH",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Dynamic Trees – Biomes O’ Plenty",
+                "ProjectID": "8QHjGuhP",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Dynamic Trees",
+                "ProjectID": "qaO9Dqpu",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Ocean’s Delight",
+                "ProjectID": "DGiq4ZSW",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Dynamic Trees – Quark",
+                "ProjectID": "9paueCZy",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Just Enough Breeding (JEBr)",
+                "ProjectID": "9Pk89J3g",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Animal Feeding Trough",
+                "ProjectID": "bRFWnJ87",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Magnum Torch",
+                "ProjectID": "jorDmSKv",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Not Enough Recipe Book [NERB]",
+                "ProjectID": "bQh7xzFq",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Twigs",
+                "ProjectID": "RG50cUrX",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Macaw’s Doors",
+                "ProjectID": "kNxa8z3e",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Nyf’s Spiders",
+                "ProjectID": "dOGM7ccu",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Macaw’s Roofs",
+                "ProjectID": "B8jaH3P1",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "CobbleFurnies",
+                "ProjectID": "AXY1OO9m",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Macaw’s Stairs",
+                "ProjectID": "iP3wH1ha",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Create Deco",
+                "ProjectID": "sMvUb4Rb",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Create Slice \u0026 Dice",
+                "ProjectID": "GmjmRQ0A",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Just Enough Resources (JER)",
+                "ProjectID": "uEfK2CXF",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "More Mob Variants",
+                "ProjectID": "JiEhJ3WG",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Expanded Delight",
+                "ProjectID": "e9V6wFcR",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Macaw’s Furniture",
+                "ProjectID": "dtWC90iB",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Every Compat (Wood Good)",
+                "ProjectID": "eiktJyw1",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Grass Overhaul",
+                "ProjectID": "Eeb4VkF6",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Critters and Companions",
+                "ProjectID": "Yd4wb5wZ",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Bridging Mod",
+                "ProjectID": "lO3s8hjs",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Decorative Blocks",
+                "ProjectID": "t6BIRVZn",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Visuality: Reforged",
+                "ProjectID": "z13R7Et1",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Applied Energistics 2",
+                "ProjectID": "XxWD5pD3",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Sawmill",
+                "ProjectID": "WRaRZdTd",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Farmer’s Knives",
+                "ProjectID": "uc3VdfLM",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Falling Leaves (NeoForge/Forge)",
+                "ProjectID": "2JAUNCL4",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Macaw’s Paths and Pavings",
+                "ProjectID": "VRLhWB91",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Jade Addons (Neo/Forge)",
+                "ProjectID": "xuDOzCLy",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Immersive Paintings",
+                "ProjectID": "6txNkua3",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Create: Diesel Generators",
+                "ProjectID": "ZM3tt6p1",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Jade 🔍",
+                "ProjectID": "nvQzSEkH",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Just Enough Items (JEI)",
+                "ProjectID": "u6dRKJwZ",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "[EMF] Entity Model Features",
+                "ProjectID": "4I1XuqiY",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Iris Shaders",
+                "ProjectID": "YL57xq9U",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "RightClickHarvest",
+                "ProjectID": "Cnejf5xM",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Artifacts",
+                "ProjectID": "P0Mu4wcQ",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "CraftPresence",
+                "ProjectID": "DFqQfIBR",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Dynamic Trees",
+                "ProjectID": "vdjF5PL5",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Ping Wheel",
+                "ProjectID": "QQXAdCzh",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "FallingTree",
+                "ProjectID": "Fb4jn8m6",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Leaves Be Gone",
+                "ProjectID": "AVq17PqV",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "BetterGrassify",
+                "ProjectID": "m5T5xmUy",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Alex’s Mobs",
+                "ProjectID": "2cMuAZAp",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "JourneyMap",
+                "ProjectID": "lfHFW1mp",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "What Are They Up To (WATUT)",
+                "ProjectID": "AtB5mHky",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Sophisticated Backpacks",
+                "ProjectID": "TyCTlI4b",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Chunky",
+                "ProjectID": "fALzjamp",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Cut Through",
+                "ProjectID": "Dk6su9JN",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Tom’s Simple Storage Mod",
+                "ProjectID": "XZNI4Cpy",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Quark",
+                "ProjectID": "qnQsVE2z",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Lootr",
+                "ProjectID": "EltpO5cN",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Comforts",
+                "ProjectID": "SaCpeal4",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Chipped",
+                "ProjectID": "BAscRYKm",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Controlify",
+                "ProjectID": "DOUdJVEm",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Farmer’s Delight",
+                "ProjectID": "R2OftAxM",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "NetherPortalFix",
+                "ProjectID": "nPZr02ET",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Carry On",
+                "ProjectID": "joEfVgkn",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Nature’s Compass",
+                "ProjectID": "fPetb5Kh",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "LambDynamicLights – Dynamic Lights",
+                "ProjectID": "yBW8D80W",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Create",
+                "ProjectID": "LNytGWDc",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Supplementaries",
+                "ProjectID": "fFEIiSDQ",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Cubes Without Borders",
+                "ProjectID": "ETlrkaYF",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Biomes O’ Plenty",
+                "ProjectID": "HXF82T3G",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "BetterF3",
+                "ProjectID": "8shC1gFX",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Controlling",
+                "ProjectID": "xv94TkTM",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "Mouse Tweaks",
+                "ProjectID": "aC3cM3Vq",
+                "Source": "modrinth"
+            },
+            {
+                "Label": "No Chat Reports",
+                "ProjectID": "qQyHxfxd",
+                "Source": "modrinth"
+            }
+        ],
+        "Name": "Vanilla Compatible",
+        "ProfileUUID": "41191494-5586-4b77-9092-86ccd75a448f",
+        "Shaders": [
+            {
+                "Label": "Complementary Shaders v4",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/complementary-shaders-v4/version/v4.7.2",
+                "VersionID": "G16NNnV9"
+            },
+            {
+                "Label": "Arc",
+                "Source": "modrinth",
+                "URL": "https://modrinth.com/shader/arc-shader/version/0.15.2",
+                "VersionID": "etcq6IIX"
+            }
+        ]
+    }
+]

@@ -11,6 +11,7 @@
                 "created": "2026-06-12T09:03:52.611Z",
                 "gameDir": "//REPLACEWITHDOCS\\My Games\\Minecraft\\41191494-5586-4b77-9092-86ccd75a448f",
                 "icon": "Furnace",
+                "javaArgs" : "-Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
                 "lastUsed": "2030-04-16T09:03:52.611Z",
                 "lastVersionId": "neoforge-21.1.233",
                 "name": "Cool Mods",
